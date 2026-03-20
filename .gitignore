@@ -1,6 +1,24 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.*
 
 # Node
 node_modules/
@@ -16,5 +34,9 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Environment
-.env
+# Temporary files
+*.tmp
+*.temp
+
+
+
