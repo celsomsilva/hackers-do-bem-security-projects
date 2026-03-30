@@ -107,6 +107,16 @@ Pequenos desafios práticos para aprender conceitos importantes de segurança.
 
 ---
 
+### Como começar
+
+1. Escolha um desafio no nível 0
+2. Resolva o exercício
+3. Tente escrever um relatório e adicionar na pasta `reports/`.
+4. Avance para o próximo nível
+5. Contribua com novos labs ou melhorias
+
+---
+
 ### Reports
 
 Exemplos de relatórios de segurança e análise técnica.
