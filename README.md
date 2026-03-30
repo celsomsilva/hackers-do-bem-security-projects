@@ -1,12 +1,12 @@
 # Hackers do Bem – Projetos Práticos de Segurança
 
-Repositório não oficial para os alunos do programa "Hackers do Bem". A ideia partiu de um grupo de alunos do programa. Vamos transformar estudo em experiência prática aqui, novatos vão praticar, tentar fazer seus próprios repositórios, e a contribuição dos experientes será principalmente fazer novos desafios e ajudarem na divulgação do trabalho e repositório dos estudantes. Sinta-se a vontade para cooperar ou até participar do grupo no WhatsApp: 
+Repositório não oficial para os alunos do programa "Hackers do Bem". A ideia partiu de um grupo de alunos do programa. Vamos transformar estudo em experiência prática aqui, novatos vão praticar, tentar fazer seus próprios repositórios, e a contribuição dos experientes será principalmente fazer novos desafios e ajudarem na divulgação do trabalho e repositório dos estudantes. Sinta-se à vontade para cooperar ou até participar do grupo no WhatsApp: 
 > [Hackers do Bem](https://chat.whatsapp.com/Khpk8HGFRBW3ddTkIz1Epn)
 
 ## Overview
 
-Este repositório começou reunindo **projetos práticos de segurança da informação** desenvolvidos pela comunidade do WhatsApp. Muitos membros já são profissionais, ou estudam segurança, fazem cursos e acompanham conteúdos da área.  
-O objetivo desta iniciativa é ajudar a dar **o próximo passo: prática, colaboração e portfólio.**
+Este repositório começou reunindo **projetos práticos de segurança da informação** desenvolvidos pela comunidade do WhatsApp. Muitos membros já são profissionais ou estudam segurança, fazem cursos e acompanham conteúdos da área.  
+O objetivo desta iniciativa é ajudar a dar **o próximo passo: prática, colaboração e portfólio**.
 
 Aqui você encontrará:
 
@@ -35,7 +35,7 @@ Criar um espaço colaborativo onde membros da comunidade possam:
 
 ## Members Projects
 
-Projetos desenvolvidos pelos membros da comunidade ou de qualquer outro aluno do programa.
+Projetos desenvolvidos pelos membros da comunidade ou por qualquer outro aluno do programa.
 
 Aqui nesta seção do README também estarão os links apontando para os autores e os alunos que resolveram esses projetos e labs.
 
@@ -138,7 +138,7 @@ Abra uma **issue** ou envie um **pull request**.
 
 ## Uso ético
 
-Todo o conteúdo deste repositório é destinado **exclusivamente para estudo e aprendizado em segurança da informação.**
+Todo o conteúdo deste repositório é destinado **exclusivamente para estudo e aprendizado em segurança da informação**.
 
 Sempre pratique segurança **em ambientes autorizados ou laboratoriais**.
 
