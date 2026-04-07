@@ -3,6 +3,18 @@
 Repositório não oficial para os alunos do programa "Hackers do Bem". A ideia partiu de um grupo de alunos do programa. Vamos transformar estudo em experiência prática aqui, novatos vão praticar, tentar fazer seus próprios repositórios, e a contribuição dos experientes será principalmente fazer novos desafios e ajudarem na divulgação do trabalho e repositório dos estudantes. Sinta-se à vontade para cooperar ou até participar do grupo no WhatsApp: 
 > [Hackers do Bem](https://chat.whatsapp.com/Khpk8HGFRBW3ddTkIz1Epn)
 
+
+---
+---
+
+## Important Note
+
+The content of this repository is currently in Portuguese to make it easier for beginners starting with GitHub projects. In the future, the README.md files will be available in English.
+
+---
+---
+
+
 ## Overview
 
 Este repositório começou reunindo **projetos práticos de segurança da informação** desenvolvidos pela comunidade do WhatsApp. Muitos membros já são profissionais ou estudam segurança, fazem cursos e acompanham conteúdos da área.  
