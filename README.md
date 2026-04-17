@@ -1,7 +1,7 @@
 # Hackers do Bem – Projetos Práticos de Segurança
 
 Repositório não oficial para os alunos do programa "Hackers do Bem". A ideia partiu de um grupo de alunos do programa. Vamos transformar estudo em experiência prática aqui, novatos vão praticar, tentar fazer seus próprios repositórios, e a contribuição dos experientes será principalmente fazer novos desafios e ajudarem na divulgação do trabalho e repositório dos estudantes. Sinta-se à vontade para cooperar ou até participar do grupo no WhatsApp: 
-> [Hackers do Bem](https://chat.whatsapp.com/Khpk8HGFRBW3ddTkIz1Epn)
+> [Hackers do Bem](https://chat.whatsapp.com/Fh0g8EYWQ4bJM9Q0dujmTy)
 
 
 ---
