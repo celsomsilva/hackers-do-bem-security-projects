@@ -14,7 +14,7 @@ https://jsonplaceholder.typicode.com/posts
 
 Exemplo:
 
-curl https://jsonplaceholder.typicode.com/posts/1
+curl https://dummyjson.com/posts/1
 
 ## Perguntas
 
