@@ -15,6 +15,17 @@ The content of this repository is currently in Portuguese to make it easier for 
 ---
 
 
+## Status do Projeto
+
+Este repositório está em desenvolvimento contínuo.
+
+Novos laboratórios, desafios, exemplos de relatórios, projetos da comunidade e melhorias na documentação serão adicionados conforme a comunidade evolui.
+
+Sugestões, issues e pull requests são sempre bem-vindos.
+
+---
+---
+
 ## Overview
 
 Este repositório começou reunindo **projetos práticos de segurança da informação** desenvolvidos pela comunidade do WhatsApp. Muitos membros já são profissionais ou estudam segurança, fazem cursos e acompanham conteúdos da área.  
@@ -42,8 +53,6 @@ Criar um espaço colaborativo onde membros da comunidade possam:
 
 
 ---
----
-
 
 ## Members Projects
 
@@ -52,8 +61,6 @@ Projetos desenvolvidos pelos membros da comunidade ou por qualquer outro aluno d
 Aqui nesta seção do README também estarão os links apontando para os autores e os alunos que resolveram esses projetos e labs.
 
 ---
----
-
 
 
 ## Estrutura do repositório
@@ -98,13 +105,13 @@ hackers-do-bem-security-labs/
 
 ### Trilhas
 
-- Nível 0 – Primeiro contato  
-- Nível 1 – Iniciante  
-- Nível 2 – Fundamentos  
-- Nível 3 – Intermediário  
-- Nível 4 – Avançado  
-- Nível 5 – Hardcore  
-- Nível 6 – Super hardcore
+- Nível 0 - Primeiro contato  
+- Nível 1 - Iniciante  
+- Nível 2 - Fundamentos  
+- Nível 3 - Intermediário  
+- Nível 4 - Avançado  
+- Nível 5 - Hardcore  
+- Nível 6 - Super hardcore
 
 Cada pasta contém um desafio simples com instruções.
 
