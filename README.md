@@ -88,7 +88,7 @@ hackers-do-bem-security-labs/
     
     nivel-5-hardcore/
     
-    nível-6-super-hardcore/
+    nível-6-projeto-final/
 
   reports/
     pentest-report-example.md
@@ -111,7 +111,7 @@ hackers-do-bem-security-labs/
 - Nível 3 - Intermediário  
 - Nível 4 - Avançado  
 - Nível 5 - Hardcore  
-- Nível 6 - Super hardcore
+- Nível 6 - projeto final
 
 Cada pasta contém um desafio simples com instruções.
 
